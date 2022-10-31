@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 
-Sowftware engineer interested in embedded, IOT, EVs and cryptography. 
+Software engineer interested in embedded, IOT, EVs and cryptography.  
